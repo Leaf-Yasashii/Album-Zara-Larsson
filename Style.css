@@ -1,0 +1,10 @@
+body {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+header {background-color: rgb(255, 187, 59); background-image: url(IMAGE/Zara-Larsson-Merch-Logo.png) ;
+nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    }
+    a {color: white;
+     text-decoration: none;}
+}
